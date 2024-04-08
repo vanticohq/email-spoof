@@ -1,6 +1,6 @@
 ## E-mail Spoofing Checker
 
-É uma ferramenta desenvolvida pela Vantico, feita toda em Python, em que sua função é basicamente verificar se certo domínio possui a verificação do DMARC e SPF ou não.
+É uma ferramenta desenvolvida pela Vantico, feita em Python, sua função é basicamente verificar se o domínio possui configurações corretas de DMARC e SPF e DKIM.
 
 ## Objetivo
 
