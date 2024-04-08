@@ -15,7 +15,13 @@ $ Python 3.0+
 ```
 $ python3 spoofy.py -d (domínio)
 ```
+![Sample screenshot](https://raw.githubusercontent.com/vanticohq/email-spoof/main/images/spoof-1.png)
+
+![Sample screenshot](https://raw.githubusercontent.com/vanticohq/email-spoof/main/images/spoof-2.png)
 
 ## Autor
 
 Lucas Alcantara
+
+## Licença
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
